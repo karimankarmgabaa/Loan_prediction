@@ -1,2 +1,2 @@
 # Loan_prediction
-This project for classification if user take loan or not
+This project for classification of if user take loan or not
